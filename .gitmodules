@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/shim369/Vuejs-Laravel-Test-Todo-App-Frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/shim369/Vuejs-Laravel-Test-Todo-App-Backend.git
